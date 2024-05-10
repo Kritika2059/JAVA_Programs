@@ -3,6 +3,7 @@ import java.util.Objects;
 class Laptop
 {
     //hashCode, equals, toString methods, etc
+    //object class contains lots of builtin(let's say already made) methods which makes it easier and efficient to write code than making methods by our own
     String model;
     int price;
 //to generate toSring automatically =? right click => click generate => click toString(
